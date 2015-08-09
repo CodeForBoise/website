@@ -167,21 +167,3 @@ img.project-git-human { width: 50px; margin-top: 5px; margin-bottom: 5px; border
 .footer { text-align: left; font-size: 14px; line-height: 15px; border-top: 3px solid dimgray; background-color: #cf1b41; padding: 20px 20px 30px 20px; margin-top: 20px; }
 .footer li { list-style-type: none; padding-bottom: 8px; }
 .footer img { float: left; padding-right: 10px; padding-bottom: 20px; }
-
-aside { 
-    margin-top: 10px;
-    display: block;
-    float: right;
-    border: 2px solid black;
-    padding: 10px;
-    font-size: 11pt;
-    font-weight: bold;
-}
-aside ul { 
-  margin-top: 0;
-  margin-bottom: 0;
-}
-aside p { 
-  margin-top: 0;
-  margin-bottom: 0;
-}

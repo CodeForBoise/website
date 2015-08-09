@@ -1,0 +1,34 @@
+/**
+ * Custom styles for Code for Boise site.
+ * 08/09/2015 - WKB - Initial version
+ */
+
+aside { 
+    margin-top: 10px;
+    display: block;
+    float: right;
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 11pt;
+    font-weight: bold;
+}
+aside ul { 
+  margin-top: 0;
+  margin-bottom: 0;
+}
+aside p { 
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul.projects li { 
+  margin-top: 10px;
+}
+
+ul.projects .title {
+  font-weight:bold;
+  font-size:larger;
+}
+
+h1.h0 { margin-top:30px }
+
